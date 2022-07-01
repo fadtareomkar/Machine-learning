@@ -1,4 +1,7 @@
-![526479](https://user-images.githubusercontent.com/108358005/176874057-37da189d-284f-45eb-b4fb-e6c7513a6edd.png)
+<p align="center"><img src="https://singularityhub.com/wp-content/uploads/2018/10/big-data-artificial-intelligence-concept-machine_shutterstock_1178406457.jpg" height= 350" width="1000"/></p>
+
+
+
 # Artificial intelligence (AI)
 Artificial intelligence is field of computer science, which leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind with the help of robust datasets.
 - ## Machine learning
